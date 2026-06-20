@@ -4,5 +4,5 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://files.catbox.moe/vap0v2.png"style="width: 50%; height: auto;" />
+  <img src="https://files.catbox.moe/j4s0ki.png"style="width: 50%; height: auto;" />
 </p>
